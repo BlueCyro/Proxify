@@ -16,7 +16,7 @@ public class Proxify : NeosMod
     public override string Version => "1.0.0";
     public override void OnEngineInit()
     {
-        Harmony harmony = new Harmony("net.Author.ModClass");
+        Harmony harmony = new Harmony("net.Cyro.Proxify");
         harmony.PatchAll();
     }
 
