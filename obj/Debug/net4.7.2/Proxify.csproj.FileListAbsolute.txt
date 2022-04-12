@@ -1,0 +1,15 @@
+C:\Users\Cyro\Documents\Coding Stuff\VSCode NML mod template\Proxify\bin\Debug\net4.7.2\Proxify.dll
+C:\Users\Cyro\Documents\Coding Stuff\VSCode NML mod template\Proxify\bin\Debug\net4.7.2\Proxify.pdb
+C:\Users\Cyro\Documents\Coding Stuff\VSCode NML mod template\Proxify\bin\Debug\net4.7.2\0Harmony.dll
+C:\Users\Cyro\Documents\Coding Stuff\VSCode NML mod template\Proxify\bin\Debug\net4.7.2\BaseX.dll
+C:\Users\Cyro\Documents\Coding Stuff\VSCode NML mod template\Proxify\bin\Debug\net4.7.2\CodeX.dll
+C:\Users\Cyro\Documents\Coding Stuff\VSCode NML mod template\Proxify\bin\Debug\net4.7.2\FrooxEngine.dll
+C:\Users\Cyro\Documents\Coding Stuff\VSCode NML mod template\Proxify\bin\Debug\net4.7.2\NeosModLoader.dll
+C:\Users\Cyro\Documents\Coding Stuff\VSCode NML mod template\Proxify\obj\Debug\net4.7.2\Proxify.csproj.AssemblyReference.cache
+C:\Users\Cyro\Documents\Coding Stuff\VSCode NML mod template\Proxify\obj\Debug\net4.7.2\Proxify.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cyro\Documents\Coding Stuff\VSCode NML mod template\Proxify\obj\Debug\net4.7.2\Proxify.AssemblyInfoInputs.cache
+C:\Users\Cyro\Documents\Coding Stuff\VSCode NML mod template\Proxify\obj\Debug\net4.7.2\Proxify.AssemblyInfo.cs
+C:\Users\Cyro\Documents\Coding Stuff\VSCode NML mod template\Proxify\obj\Debug\net4.7.2\Proxify.csproj.CoreCompileInputs.cache
+C:\Users\Cyro\Documents\Coding Stuff\VSCode NML mod template\Proxify\obj\Debug\net4.7.2\Proxify.csproj.CopyComplete
+C:\Users\Cyro\Documents\Coding Stuff\VSCode NML mod template\Proxify\obj\Debug\net4.7.2\Proxify.dll
+C:\Users\Cyro\Documents\Coding Stuff\VSCode NML mod template\Proxify\obj\Debug\net4.7.2\Proxify.pdb
