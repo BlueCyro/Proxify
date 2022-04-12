@@ -1,0 +1,2 @@
+# A [NeosModLoader](https://github.com/zkxs/NeosModLoader) mod that adds reference proxies for the fields on LogiX registers.
+## This lets you simply drag the node onto anything that can receive a reference, and it will drop a reference the value on the register.
